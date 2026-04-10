@@ -1,0 +1,14 @@
+{
+  "name": "student-performance-tracker-client",
+  "version": "1.0.0",
+  "description": "Client application for Student Performance Tracker API",
+  "scripts": {
+    "start": "npx serve . -p 8080",
+    "test": "testcafe chrome tests/student.test.js",
+    "test:headless": "testcafe chrome:headless tests/student.test.js"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "testcafe": "^3.5.0"
+  }
+}
