@@ -1,0 +1,7 @@
+{
+  "name": "Student Performance Tracker API",
+  "version": "1.0.0",
+  "description": "REST API documentation for Student Performance Tracker",
+  "title": "Student Performance Tracker API Docs",
+  "url": "http://localhost:3000"
+}
